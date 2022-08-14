@@ -7,7 +7,7 @@
 npm init -y
 ```
 
-修改package.json为模块化，默认为commonjs
+修改package.json的type为模块化，默认为commonjs
 
 ```json
 {
